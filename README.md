@@ -58,5 +58,5 @@ No código, nós usamos laços com rótulos (labels) como outer e inner para faz
 
   ******
 
-  **Video do Youtube:** aqui
+  **Video do Youtube:** [aqui](https://youtu.be/whu8wwpHm1U)
   
